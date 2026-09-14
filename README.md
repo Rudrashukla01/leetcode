@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Rudrashukla01/leetcode/tree/master/0836-rectangle-overlap) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudrashukla01/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rudrashukla01/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
