@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Rudrashukla01/leetcode/tree/master/0027-remove-element) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,16 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rudrashukla01/leetcode/tree/master/0836-rectangle-overlap) |
+## String
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
