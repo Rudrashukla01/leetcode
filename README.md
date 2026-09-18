@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -74,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
