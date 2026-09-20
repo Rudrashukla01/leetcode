@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Rudrashukla01/leetcode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rudrashukla01/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rudrashukla01/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
