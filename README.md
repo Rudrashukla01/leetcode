@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/Rudrashukla01/leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudrashukla01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rudrashukla01/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
