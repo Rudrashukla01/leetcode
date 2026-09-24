@@ -18,6 +18,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Rudrashukla01/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rudrashukla01/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
 | [0896-monotonic-array](https://github.com/Rudrashukla01/leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrashukla01/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Rudrashukla01/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
