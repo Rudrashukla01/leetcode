@@ -20,6 +20,7 @@
 | [0035-search-insert-position](https://github.com/Rudrashukla01/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0896-monotonic-array](https://github.com/Rudrashukla01/leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrashukla01/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Rudrashukla01/leetcode/tree/master/1929-concatenation-of-array) |
@@ -35,6 +36,7 @@
 | [0035-search-insert-position](https://github.com/Rudrashukla01/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Rudrashukla01/leetcode/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
@@ -103,4 +106,16 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
