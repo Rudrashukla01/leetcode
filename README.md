@@ -20,6 +20,7 @@
 | [0035-search-insert-position](https://github.com/Rudrashukla01/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Rudrashukla01/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0896-monotonic-array](https://github.com/Rudrashukla01/leetcode/tree/master/0896-monotonic-array) |
@@ -113,6 +114,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rudrashukla01/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
