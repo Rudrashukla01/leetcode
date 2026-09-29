@@ -26,6 +26,7 @@
 | [0896-monotonic-array](https://github.com/Rudrashukla01/leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrashukla01/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Rudrashukla01/leetcode/tree/master/1929-concatenation-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
 |  |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudrashukla01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +137,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rudrashukla01/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudrashukla01/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
