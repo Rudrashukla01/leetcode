@@ -21,6 +21,7 @@
 | [0027-remove-element](https://github.com/Rudrashukla01/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rudrashukla01/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rudrashukla01/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rudrashukla01/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Rudrashukla01/leetcode/tree/master/0136-single-number) |
@@ -66,6 +67,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rudrashukla01/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rudrashukla01/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rudrashukla01/leetcode/tree/master/0053-maximum-subarray) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudrashukla01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
