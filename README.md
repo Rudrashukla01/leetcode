@@ -7,6 +7,7 @@
 | [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/Rudrashukla01/leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudrashukla01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rudrashukla01/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -28,6 +29,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Rudrashukla01/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Rudrashukla01/leetcode/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
 |  |
@@ -59,6 +61,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
