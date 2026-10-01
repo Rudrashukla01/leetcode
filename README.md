@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rudrashukla01/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Rudrashukla01/leetcode/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/Rudrashukla01/leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudrashukla01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rudrashukla01/leetcode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rudrashukla01/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
