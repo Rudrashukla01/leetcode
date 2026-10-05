@@ -28,6 +28,7 @@
 | [0162-find-peak-element](https://github.com/Rudrashukla01/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudrashukla01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0896-monotonic-array](https://github.com/Rudrashukla01/leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrashukla01/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rudrashukla01/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudrashukla01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Rudrashukla01/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
@@ -75,6 +77,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rudrashukla01/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rudrashukla01/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
