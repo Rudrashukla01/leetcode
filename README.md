@@ -34,6 +34,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Rudrashukla01/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Rudrashukla01/leetcode/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudrashukla01/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudrashukla01/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudrashukla01/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -129,6 +131,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudrashukla01/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Newton's Method
 |  |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rudrashukla01/leetcode/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudrashukla01/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
