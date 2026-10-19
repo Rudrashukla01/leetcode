@@ -33,6 +33,7 @@
 | [0896-monotonic-array](https://github.com/Rudrashukla01/leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrashukla01/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Rudrashukla01/leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudrashukla01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudrashukla01/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudrashukla01/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -55,6 +56,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Rudrashukla01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Rudrashukla01/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudrashukla01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rudrashukla01/leetcode/tree/master/0169-majority-element) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudrashukla01/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudrashukla01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudrashukla01/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
