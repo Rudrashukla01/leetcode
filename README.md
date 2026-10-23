@@ -38,6 +38,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudrashukla01/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rudrashukla01/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudrashukla01/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Rudrashukla01/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudrashukla01/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
@@ -153,6 +154,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Rudrashukla01/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rudrashukla01/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Rudrashukla01/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
